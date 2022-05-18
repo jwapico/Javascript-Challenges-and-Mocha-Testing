@@ -17,6 +17,4 @@ function isIsogram(text) {
   return true
 }
 
-console.log(isIsogram("Howdy!!"))
-
 module.exports = { isIsogram }
